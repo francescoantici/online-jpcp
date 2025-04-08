@@ -1,0 +1,8 @@
+xgboost
+sentence_transformers
+pandas 
+numpy 
+scikit-learn
+seaborn
+matplotlib
+tqdm
